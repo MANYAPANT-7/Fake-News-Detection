@@ -28,7 +28,9 @@ The **Fake News Detection System** is a Python-based application leveraging Natu
 - Required Python libraries (see `requirements.txt`)
 
 ### Dataset
-The dataset consists of labeled news articles categorized as `Real` or `Fake`. Ensure the dataset is placed in the project directory before running the application.
+Datasets used in this project are too large to be uploaded directly to GitHub. However, you can download them from Google Drive using the link below:
+
+Fake News Dataset: "https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_"
 
 ### How to Run
 1. Clone the repository or download the project files.
