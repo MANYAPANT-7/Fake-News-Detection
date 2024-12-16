@@ -31,19 +31,12 @@ The **Fake News Detection System** is a Python-based application leveraging Natu
 The dataset consists of labeled news articles categorized as `Real` or `Fake`. Ensure the dataset is placed in the project directory before running the application.
 
 ### How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
-   ```
+1. Clone the repository or download the project files.
 2. Navigate to the project directory:
    ```bash
    cd fake-news-detection
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter notebook to explore the project:
+3. Run the Jupyter notebook to explore the project:
    ```bash
    jupyter notebook Fake_News_Detection.ipynb
    ```
